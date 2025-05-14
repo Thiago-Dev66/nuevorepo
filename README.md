@@ -1,5 +1,5 @@
 # nuevorepo
 
-##descripcion
+## descripcion
 
-###nuevo repo en github
+### nuevo repo en github
